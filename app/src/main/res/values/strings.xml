@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="action_settings">Settings</string>
+    <string name="lokasi">Prambon, Sidoarjo</string>
+    <string name="now">28</string>
+    <string name="time">16:04</string>
+    <string name="tgl">RABU, 15 JUNI</string>
+    <string name="kelembaban">100%</string>
+</resources>
