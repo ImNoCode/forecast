@@ -21,7 +21,7 @@ public class ListViewActivity extends Activity {
         setContentView(R.layout.content_main);
 
         // Get ListView object from xml
-        listView = (ListView) findViewById(R.id.list);
+        // listView = (ListView) findViewById(R.id.list);
 
         // Defined Array values to show in ListView
         String[] values = new String[] { "Android List View",
