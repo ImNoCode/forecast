@@ -29,11 +29,10 @@ public class SplashActivity extends Activity {
             public void run() {
                 Intent mainIntent = new Intent(SplashActivity.this, MainActivity.class);
 
-                SplashActivity.this.startActivity(mainIntent);
+                startActivity(mainIntent);
                 SplashActivity.this.finish();
             }
         }, SPLASH_DISPLAY_LENGHT);
-        finish();
     }
 
 }
